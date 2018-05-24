@@ -18,22 +18,22 @@ module.exports = {
 
 ```
 
-#Run the following commands in your terminal
+# Run the following commands in your terminal
 
 
-##Install node packages by running...
+## Install node packages by running...
 
 ```
 $ npm install
 ```
 
-##Wait for npm install to complete then run the following command...
+## Wait for npm install to complete then run the following command...
 
 ```
 $ node bittrex-websocket.js
 ```
 
-###Your terminal will show public updates for the market you have specified on line 12
+### Your terminal will show public updates for the market you have specified on line 12
 
 ```javascript
 
