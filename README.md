@@ -1,6 +1,12 @@
 # You need to create a js file called development.js
 
-You will need to set this up on your Bittrex.com account.  Copy the code below and fill in your information.  This will be ignored when you commit.
+You will need to set up API keys on your Bittrex.com account.  
+
+Login to your Bittrex account and navigate to: https://bittrex.com/Manage?view=api
+
+Add a new API key.
+
+Copy the code below and fill in your new API key information.  
 
 ```javascript
 
@@ -9,14 +15,14 @@ module.exports = {
   /** Bittrex */
   btrx_api_key: 'your_api_key',
   btrx_secret_key: 'your_secret_key',
-
-  /** User */
-  user_name: 'your_user_name',
-  call_sign: 'your_call_sign', // Watch the movie Top Gun if you do not understand this ;)
-
 }
 
 ```
+
+## NOTE: This will be ignored when you commit as long as you DO NOT mess with the .gitignore file. 
+
+# If you fuck it up and commit your secret API key for all the world to see on Github and some hacker steals all of your Bitcoins (and / or other cryptocurrency) it is 100% your fault.
+
 
 # Run the following commands in your terminal
 
