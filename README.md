@@ -55,7 +55,7 @@ $ node bittrex-websocket.js
 
 ```javascript
 
-let market = 'BTC-ETH'
+let market = 'USDT-BTC'
 
 // Note that the market is the reverse of the symbol separated by a dash. 
 // Example: BTC/USDT = USDT-BTC; ZCL/BTC = BTC-ZCL
