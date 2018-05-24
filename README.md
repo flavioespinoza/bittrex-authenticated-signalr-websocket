@@ -8,8 +8,6 @@ Add a new API key.
 
 Copy the code below and paste it into your new development.js file 
 
-Next fill in your new API key information where it says 'your_api_key' and 'your_secret_key'.  
-
 ```javascript
 
 module.exports = {
@@ -22,6 +20,9 @@ module.exports = {
 
 ```
 
+Next fill in your new API key information where it says 'your_api_key' and 'your_secret_key'.  
+
+#Smoke break ;)  ---------------
 
 Please pay attention to the next sentence.
 
