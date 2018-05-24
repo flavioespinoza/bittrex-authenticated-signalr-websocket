@@ -6,7 +6,9 @@ Login to your Bittrex account and navigate to: https://bittrex.com/Manage?view=a
 
 Add a new API key.
 
-Copy the code below and paste it into your new development.js file and fill in your new API key information.  
+Copy the code below and paste it into your new development.js file 
+
+Next fill in your new API key information where it says 'your_api_key' and 'your_secret_key'.  
 
 ```javascript
 
