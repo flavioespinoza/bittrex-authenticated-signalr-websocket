@@ -1,4 +1,4 @@
-# You need to create a js file called development.js
+# You will need to create a js file called development.js
 
 You will need to set up API keys on your Bittrex.com account.  
 
