@@ -35,6 +35,8 @@ Pause. Take a deep breath, and really, really, pay attention to the next sentenc
 
 # If you fuck it up and commit your secret API key for all the world to see on Github and some hacker steals all of your Bitcoins (and / or other cryptocurrency) it is 100% your fault.
 
+### BTW, I have done this :)
+
 
 Serenity now...
 
