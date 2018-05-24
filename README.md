@@ -22,7 +22,7 @@ module.exports = {
 
 Next fill in your new API key information where it says 'your_api_key' and 'your_secret_key'.  
 
-#Smoke break ;)  ---------------
+# Smoke break ;)  ---------------
 
 Please pay attention to the next sentence.
 
