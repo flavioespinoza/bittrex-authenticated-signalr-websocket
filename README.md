@@ -15,17 +15,18 @@ module.exports = {
   /** Bittrex */
   btrx_api_key: 'your_api_key',
   btrx_secret_key: 'your_secret_key',
+  
 }
 
 ```
 
-## NOTE: This will be ignored when you commit as long as you DO NOT mess with the .gitignore file. 
+### NOTE: This will be ignored when you commit as long as you DO NOT mess with the .gitignore file. 
 
 # If you fuck it up and commit your secret API key for all the world to see on Github and some hacker steals all of your Bitcoins (and / or other cryptocurrency) it is 100% your fault.
 
+Serenity now...
 
 # Run the following commands in your terminal
-
 
 ### Install node packages by running...
 
@@ -40,6 +41,7 @@ $ node bittrex-websocket.js
 ```
 
 ### Your console will show public updates for the market you have specified on line 12
+### Your console will also show private updates for any OPEN ORDERS you have for the market you have specified on line 12
 
 ```javascript
 
