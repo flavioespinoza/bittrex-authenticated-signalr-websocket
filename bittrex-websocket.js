@@ -9,7 +9,7 @@ const log = require('ololog')
 
 const client = new signalR.client('wss://beta.bittrex.com/signalr', ['c2'])
 
-let market = 'BTC-ETH'
+let market = 'USDT-BTC'
 
 let keys
 if (process.env.NODE_ENV === 'production') {
