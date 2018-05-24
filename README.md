@@ -24,7 +24,7 @@ module.exports = {
 Please pay attention to the next sentence.
 
 
-### NOTE: You development.js file will be ignored when you commit as long as you DO NOT mess with the .gitignore file. 
+### NOTE: Your development.js file will be ignored when you commit as long as you DO NOT mess with the .gitignore file. 
 
 
 Pause. Take a deep breath, and really, really, pay attention to the next sentence. 
