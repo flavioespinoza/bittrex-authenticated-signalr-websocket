@@ -1,14 +1,40 @@
-### Pre req
-node 6+
+# You need to create a js file called development.js
 
-npm 3+
+You will need to set this up on your Bittrex.com account.  Copy the code below and fill in your information.  This will be ignored when you commit.
 
+```javascript
+
+module.exports = {
+
+  /** Bittrex */
+  btrx_api_key: 'your_api_key',
+  btrx_secret_key: 'your_secret_key',
+
+  /** User */
+  user_name: 'your_user_name',
+  call_sign: 'your_call_sign', // Watch the movie Top Gun if you do not understand this ;)
+
+}
 
 ```
-$ git clone https://github.com/rrag/react-stockcharts-examples2
-$ cd examples/<example you wish>
 
+#Run the following commands in your terminal
+
+
+##Install node packages by running...
+```
 $ npm install
+```
 
-$ npm start # this should launch a browser with http://localhost:3000
+##Wait for npm install to complete then run the following command...
+
+```
+$ node bittrex-websocket.js
+```
+
+###Your terminal will show public updates for the market you have specified on line 12
+
+```javascript
+
+let market = 'BTC-ETH' //or, BTC-ZCL, BTC-ADA, USDT-BTC, USDT-ETH, etc...
 ```
