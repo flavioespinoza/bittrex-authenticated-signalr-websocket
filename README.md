@@ -20,15 +20,21 @@ module.exports = {
 
 ```
 
+
 Please pay attention to the next sentence.
+
 
 ### NOTE: You development.js file will be ignored when you commit as long as you DO NOT mess with the .gitignore file. 
 
+
 Pause. Take a deep breath, and really, really, pay attention to the next sentence. 
+
 
 # If you fuck it up and commit your secret API key for all the world to see on Github and some hacker steals all of your Bitcoins (and / or other cryptocurrency) it is 100% your fault.
 
+
 Serenity now...
+
 
 # Run the following commands in your terminal
 
